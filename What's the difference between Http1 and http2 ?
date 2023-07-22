@@ -1,0 +1,11 @@
+HTTP 1:
+        * It's a textual format
+        * It compresses data by itself 
+        * it uses request resources inlining for use getting multiple pages 
+        * If a head of line blocking that blocks all the request behind it until it does't get its all resources
+
+HTTP2: 
+        * It's a Binary Format 
+        * This HTTP2 Push all multiple pages using PUSH frame 
+        *It uses HPACK for data compression 
+        *It Allow multiplexing so one TCP connection is required for multiple request.

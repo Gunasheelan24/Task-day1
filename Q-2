@@ -1,0 +1,4 @@
+2. Write a blog about objects and its internal representation in Javascript 
+     *The Object is used to store lot of data
+     *We can Declare All Types of Data Types inside the objectlike:String,number,null,undefined,boolean
+     *Properties of a JavaScript object can be accessed in 2 different methods: using the dot operator and using a square bracket
